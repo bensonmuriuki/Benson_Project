@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "583767939088",
+    "project_id": "benson-project-5c7fb",
+    "storage_bucket": "benson-project-5c7fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583767939088:android:b3626fedbab53a3be99295",
+        "android_client_info": {
+          "package_name": "com.example.benson_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1EzvKtdEokGUDNGRUeBqWmM6yjXQBWls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
